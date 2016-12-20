@@ -1,0 +1,2 @@
+# oracle_deleteattributes
+oracle_deleteattributes
